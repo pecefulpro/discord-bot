@@ -28,3 +28,6 @@ async def rules(*args):
 
 titan_bot.run("Mjg4NzY1NzI2NjM3MDMxNDI0.C6CupA.6EtXIs3F7uUiEPU9BBpR6EyNm_s")
 
+
+Good change , nice bot and keep trying :)
+
